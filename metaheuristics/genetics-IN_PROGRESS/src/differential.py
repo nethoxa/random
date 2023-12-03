@@ -184,7 +184,7 @@ class Differential:
 
     # Run
     def run(self) -> None:
-        with open(f"logs/Differential-FILE={self.file}=SEED={self.seed}-POBLATION_SIZE={self.poblation_size}-ELITE={self.elite}-KBEST={self.kBest}-STOP={self.stop}-IS_OX2={self.is_EDA}.txt", "w") as f:
+        with open(f"logs/Differential-FILE={self.file}=SEED={self.seed}-POBLATION_SIZE={self.poblation_size}-ELITE={self.elite}-KBEST={self.kBest}-STOP={self.stop}-IS_EDA={self.is_EDA}.txt", "w") as f:
             
             f.write(f"Poblation initialised, running...\n")
             f.write(f"\n")
