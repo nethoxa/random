@@ -17,12 +17,7 @@ HEADER = colored("""
 | $$ \/  | $$| $$$$$$$$   | $$  | $$  | $$
 |__/     |__/|________/   |__/  |__/  |__/
                                           
-""", "cyan") + """
-
-            Sergio Moleón Peñas
-           Andrés Jiménez Láinez
-
-"""
+""", "cyan")
 
 def find_non_overlapping_max(matrix):
     if not matrix:

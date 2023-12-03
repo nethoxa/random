@@ -26,12 +26,7 @@ HEADER = colored("""
 | $$ \/  | $$| $$$$$$$$   | $$  | $$  | $$
 |__/     |__/|________/   |__/  |__/  |__/
                                           
-""", "cyan") + """
-
-            Sergio Moleón Peñas
-           Andrés Jiménez Láinez
-
-"""
+""", "cyan")
 
 def launch_generational(
         matrix: list,
