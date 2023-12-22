@@ -5,4 +5,4 @@
 - [parsifal](./parsifal.py): a little script based on scrapyFy that downloads EVERYTHING in scope in Immunefi. It is trash, as it was my first version...
 - [metaheuristics](./metaheuristics): just some college assignments
   - [search](./metaheuristics/search%20stuff): local search, tabu and grasp
-  - [genetics](./metaheuristics/genetics-IN_PROGRESS): genetics and evolutionary
+  - [genetics](./metaheuristics/genetics): genetics and evolutionary
