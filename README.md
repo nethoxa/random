@@ -6,3 +6,4 @@
 - [metaheuristics](./metaheuristics): just some college assignments
   - [search](./metaheuristics/search%20stuff): local search, tabu and grasp
   - [genetics](./metaheuristics/genetics): genetics and evolutionary
+  - [ants colonies](./metaheuristics/ants%20colonies): the classic one
