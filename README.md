@@ -7,3 +7,4 @@
   - [search](./metaheuristics/search%20stuff): local search, tabu and grasp
   - [genetics](./metaheuristics/genetics): genetics and evolutionary
   - [ants colonies](./metaheuristics/ants%20colonies): the classic one
+- [checklist](checklist.sh): just a tiny shell util to make a fast pass to Solidity SC
